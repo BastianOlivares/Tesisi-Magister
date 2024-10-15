@@ -1,3 +1,9 @@
+# RECORDATORIO
+
+# - CREAR EWL DOCUMENTO RESULTADOS.TXT
+# - REVISAR BIEN LAS DIRECCIONES DE LOS datasets
+# - Y GREAR LA CARPTEA "OUTPUTGRAFICOS" PARA LAS IMAGENES DE LOS GR'AFICOS'
+
 import torch
 import torch.nn as nn # neural network
 import torch.nn.functional as F # funcitions Relu
